@@ -1,28 +1,50 @@
 Table of Contents
 1. Introduction
+
 a. The power of Blockchain
+
 b. The future with Blockchain
+
 2. MBit – Using the power of Decentralised Organization
+
 a. The MBit ecosystem
+
 b. MBit – A Decentralised Organisation (DO)
+
 c. Token Technology
+
 d. Token Distribution
+
 e. The benefits of Mbit
+
 3. ROYYAL– The Hyper Local Loyalty Token
+
 a. Introduction
+
 i. Market Opportunity
+
 I. Hyperlocal Segment in India
+
 II. Loyalty Segment in India
+
 III. The power of CRM
+
 ii. Status Quo in Loyalty Sector
+
 iii. Achieving the potential of loyalty through Blockchain
+
 b. ROYYAL – A decentralized loyalty ecosystem
+
 i. A peek into the ROYYAL ecosystem
+
 ii. Token mechanics
+
 iii. ROYYAL in real life - applications and use cases
+
 iv. The benefits of ROYYAL
 
 4. Business Development
+
 a. Market Opportunity
 
 5. References
@@ -43,13 +65,21 @@ other, without any middlemen or intermediaries. This is because the system itsel
 mechanism to create transparency and trust by virtue of its neutrality. Since there is no central
 authority, abuse of power is prevented as power is decentralized and distributed.
 Features of Blockchain
+
 ● Secure
+
 ● Transparent
+
 ● Peer to Peer transfer
+
 ● Encrypted and Pseudonymous
+
 ● Instant and frictionless transactions
+
 ● Low Cost
+
 Simply put, it’s a code for creating trust.
+
 In a blockchain system, the ledger is replicated in many identical databases, each hosted and
 maintained by interested members(nodes). When changes are made in one ledger copy, all the
 other copies get simultaneously updated. So as transactions occur, records of the value and assets
